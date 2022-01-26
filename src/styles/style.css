@@ -1,0 +1,53 @@
+h4 {
+  font-size: 1.4em !important;
+	margin-bottom: 10px !important;
+  margin-top: 10px !important;
+  font-weight: normal !important;
+}
+
+.number {
+  background: #0a52be;
+	color: #fff;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	font-size: 0.8em;
+	margin-right: 4px;
+	line-height: 30px;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+	border-radius: 15px 15px 15px 0px;
+
+}
+
+.order-handling {
+  border: 2px solid #0C65EB;
+  border-radius: 12px;
+}
+
+
+.last-row {
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+}
+
+.order-handling div.form-switch {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 8px;
+}
+
+.marketplace, .retails-info {
+  border: 2px solid #0C65EB;
+  border-radius: 12px;
+}
+
+input[type="text"], input[type="email"], select  {
+  border: none !important;
+  border-bottom: 1px solid #ced4da !important;
+}
+
+.form-floating label {
+  padding-left: 0 !important;
+  opacity: 0.8 !important;
+}
